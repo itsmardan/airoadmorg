@@ -13801,6 +13801,22 @@ body {
     display: block; }
   /* This will now correctly apply to the main menu */ }
 
+.equation {
+  font-size: 24px;
+  /* Adjust the font size as needed */
+  font-family: Arial, sans-serif;
+  /* Change the font as desired */
+  text-align: center;
+  /* Center the text */ }
+
+.ai {
+  display: block;
+  /* Stack AI below IQ */
+  font-size: 20px;
+  /* Smaller size for AI */
+  margin-top: 10px;
+  /* Space between IQ and AI */ }
+
 .title {
   font-size: 24px;
   font-weight: 800; }
